@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "klik_loginsystem",
+            "driver": "MySQL",
+            "group": "Flora",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "Myconncetion",
+            "password": "Aakash_1Gautam2",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
