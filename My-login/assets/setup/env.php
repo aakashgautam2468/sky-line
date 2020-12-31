@@ -27,7 +27,7 @@ if (!defined('DB_USERNAME')) {
     define('DB_USERNAME', 'root');
 }
 if (!defined('DB_PASSWORD')) {
-    define('DB_PASSWORD', 'Password_Whatever_you_want');
+    define('DB_PASSWORD', 'Anything');
 }
 if (!defined('DB_PORT')) {
     define('DB_PORT', '3306');
